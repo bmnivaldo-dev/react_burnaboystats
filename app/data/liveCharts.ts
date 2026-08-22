@@ -2461,14 +2461,14 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "US",
             "name": "United States",
-            "position": 19,
-            "movement": 1
+            "position": 18,
+            "movement": 2
           },
           {
             "country": "AU",
             "name": "Australia",
-            "position": 23,
-            "movement": -6
+            "position": 24,
+            "movement": -7
           },
           {
             "country": "NL",
@@ -4980,8 +4980,8 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "NG",
             "name": "Nigeria",
-            "position": 194,
-            "movement": -2
+            "position": 101,
+            "movement": 91
           }
         ]
       }
