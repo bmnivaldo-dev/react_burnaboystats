@@ -68,7 +68,7 @@
       "field": "rank",
       "kind": "rank",
       "threshold": 1,
-      "baseline": 51,
+      "baseline": 52,
       "note": "Global rank by Spotify monthly listeners (lower is better). Auto-published hourly; displayed on /records/by-the-numbers.",
       "live": true,
       "sanity": {
@@ -86,9 +86,9 @@
           "describes": "global listeners rank"
         }
       ],
-      "lastChanged": "2026-08-30",
-      "lastSeenValue": 51,
-      "lastSeenAt": "2026-08-30"
+      "lastChanged": "2026-08-31",
+      "lastSeenValue": 52,
+      "lastSeenAt": "2026-08-31"
     },
     {
       "id": "spotify-total-streams",
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 950157046,
+      "baseline": 950517983,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,9 +146,9 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-08-30",
-      "lastSeenValue": 950157046,
-      "lastSeenAt": "2026-08-30"
+      "lastChanged": "2026-08-31",
+      "lastSeenValue": 950517983,
+      "lastSeenAt": "2026-08-31"
     },
     {
       "id": "yt-views-last-last",
