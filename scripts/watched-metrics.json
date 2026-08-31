@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-08-31",
-      "lastSeenValue": 951781689,
+      "lastSeenValue": 951989068,
       "lastSeenAt": "2026-08-31"
     },
     {
@@ -159,7 +159,7 @@
       "match": "Last Last [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 360640155,
+      "baseline": 361818085,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -177,9 +177,9 @@
           "describes": "displayed YouTube views on /music/last-last"
         }
       ],
-      "lastChanged": "2026-08-20",
-      "lastSeenValue": 361498696,
-      "lastSeenAt": "2026-08-28",
+      "lastChanged": "2026-08-31",
+      "lastSeenValue": 361818085,
+      "lastSeenAt": "2026-08-31",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-08-23",
-      "lastSeenValue": 308952409,
-      "lastSeenAt": "2026-08-28",
+      "lastSeenValue": 309155130,
+      "lastSeenAt": "2026-08-31",
       "stalenessDays": 60
     },
     {
@@ -223,7 +223,7 @@
       "match": "On The Low [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 478779898,
+      "baseline": 479604009,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -241,9 +241,9 @@
           "describes": "displayed YouTube views on /music/on-the-low"
         }
       ],
-      "lastChanged": "2026-08-25",
-      "lastSeenValue": 479133307,
-      "lastSeenAt": "2026-08-28",
+      "lastChanged": "2026-08-31",
+      "lastSeenValue": 479604009,
+      "lastSeenAt": "2026-08-31",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-08-25",
-      "lastSeenValue": 117623263,
-      "lastSeenAt": "2026-08-28",
+      "lastSeenValue": 117768420,
+      "lastSeenAt": "2026-08-31",
       "stalenessDays": 30
     },
     {
@@ -305,8 +305,8 @@
         "max": 50000000000
       },
       "lastChanged": "2026-08-25",
-      "lastSeenValue": 3190340995,
-      "lastSeenAt": "2026-08-28",
+      "lastSeenValue": 3193709451,
+      "lastSeenAt": "2026-08-31",
       "stalenessDays": 21
     },
     {
