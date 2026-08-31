@@ -2184,29 +2184,23 @@ export const liveCharts: LiveRelease[] = [
             "movement": -5
           },
           {
-            "country": "IE",
-            "name": "Ireland",
-            "position": 6,
-            "movement": -1
-          },
-          {
-            "country": "LT",
-            "name": "Lithuania",
-            "position": 6,
-            "movement": -5
-          },
-          {
-            "country": "PT",
-            "name": "Portugal",
-            "position": 6,
-            "movement": null,
-            "status": "new"
-          },
-          {
             "country": "KH",
             "name": "Cambodia",
             "position": 7,
             "movement": -5
+          },
+          {
+            "country": "IE",
+            "name": "Ireland",
+            "position": 7,
+            "movement": -2
+          },
+          {
+            "country": "PT",
+            "name": "Portugal",
+            "position": 7,
+            "movement": null,
+            "status": "new"
           },
           {
             "country": "CH",
@@ -2219,6 +2213,12 @@ export const liveCharts: LiveRelease[] = [
             "name": "Austria",
             "position": 8,
             "movement": -4
+          },
+          {
+            "country": "LT",
+            "name": "Lithuania",
+            "position": 10,
+            "movement": -9
           },
           {
             "country": "SE",
@@ -2277,15 +2277,9 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "ZA",
             "name": "South Africa",
-            "position": 33,
+            "position": 39,
             "movement": null,
             "status": "new"
-          },
-          {
-            "country": "LU",
-            "name": "Luxembourg",
-            "position": 36,
-            "movement": -31
           },
           {
             "country": "US",
@@ -2294,10 +2288,10 @@ export const liveCharts: LiveRelease[] = [
             "movement": -7
           },
           {
-            "country": "GR",
-            "name": "Greece",
-            "position": 47,
-            "movement": -44
+            "country": "LU",
+            "name": "Luxembourg",
+            "position": 50,
+            "movement": -45
           },
           {
             "country": "AU",
@@ -2334,16 +2328,15 @@ export const liveCharts: LiveRelease[] = [
             "status": "new"
           },
           {
+            "country": "GR",
+            "name": "Greece",
+            "position": 76,
+            "movement": -73
+          },
+          {
             "country": "HU",
             "name": "Hungary",
             "position": 83,
-            "movement": null,
-            "status": "new"
-          },
-          {
-            "country": "IL",
-            "name": "Israel",
-            "position": 93,
             "movement": null,
             "status": "new"
           },
@@ -2357,14 +2350,14 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "MT",
             "name": "Malta",
-            "position": 95,
-            "movement": -8
+            "position": 96,
+            "movement": -9
           },
           {
             "country": "FI",
             "name": "Finland",
-            "position": 162,
-            "movement": 2
+            "position": 169,
+            "movement": -5
           }
         ]
       }
@@ -4413,25 +4406,6 @@ export const liveCharts: LiveRelease[] = [
     "kind": "song"
   },
   {
-    "title": "Run My Race",
-    "platforms": [
-      {
-        "platform": "iTunes",
-        "numberOnes": 0,
-        "entries": [
-          {
-            "country": "ZA",
-            "name": "South Africa",
-            "position": 158,
-            "movement": null,
-            "status": "new"
-          }
-        ]
-      }
-    ],
-    "kind": "song"
-  },
-  {
     "title": "Bank On It",
     "platforms": [
       {
@@ -4442,6 +4416,25 @@ export const liveCharts: LiveRelease[] = [
             "country": "SB",
             "name": "Solomon Islands",
             "position": 75,
+            "movement": null,
+            "status": "new"
+          }
+        ]
+      }
+    ],
+    "kind": "song"
+  },
+  {
+    "title": "Run My Race",
+    "platforms": [
+      {
+        "platform": "iTunes",
+        "numberOnes": 0,
+        "entries": [
+          {
+            "country": "ZA",
+            "name": "South Africa",
+            "position": 174,
             "movement": null,
             "status": "new"
           }
