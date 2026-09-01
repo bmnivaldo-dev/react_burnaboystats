@@ -2258,13 +2258,13 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "EG",
             "name": "Egypt",
-            "position": 67,
-            "movement": 13
+            "position": 81,
+            "movement": -1
           },
           {
             "country": "VN",
             "name": "Vietnam",
-            "position": 79,
+            "position": 87,
             "movement": null,
             "status": "new"
           },
@@ -2275,35 +2275,30 @@ export const liveCharts: LiveRelease[] = [
             "movement": -66
           },
           {
-            "country": "LU",
-            "name": "Luxembourg",
-            "position": 96,
-            "movement": 1
-          },
-          {
             "country": "TR",
             "name": "Turkey",
-            "position": 113,
+            "position": 115,
             "movement": null,
             "status": "new"
           },
           {
             "country": "MX",
             "name": "Mexico",
-            "position": 128,
-            "movement": -113
+            "position": 137,
+            "movement": -122
           },
           {
             "country": "AU",
             "name": "Australia",
-            "position": 159,
-            "movement": -117
+            "position": 161,
+            "movement": -119
           },
           {
-            "country": "CL",
-            "name": "Chile",
-            "position": 200,
-            "movement": -193
+            "country": "IN",
+            "name": "India",
+            "position": 196,
+            "movement": null,
+            "status": "new"
           }
         ]
       }
@@ -4336,6 +4331,25 @@ export const liveCharts: LiveRelease[] = [
             "name": "Kenya",
             "position": 87,
             "movement": -22
+          }
+        ]
+      }
+    ],
+    "kind": "song"
+  },
+  {
+    "title": "Big 7",
+    "platforms": [
+      {
+        "platform": "iTunes",
+        "numberOnes": 0,
+        "entries": [
+          {
+            "country": "BM",
+            "name": "Bermuda",
+            "position": 2,
+            "movement": null,
+            "status": "new"
           }
         ]
       }
