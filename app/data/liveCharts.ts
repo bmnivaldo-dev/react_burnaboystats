@@ -2048,13 +2048,13 @@ export const liveCharts: LiveRelease[] = [
       },
       {
         "platform": "iTunes",
-        "numberOnes": 1,
+        "numberOnes": 0,
         "entries": [
           {
             "country": "AT",
             "name": "Austria",
-            "position": 1,
-            "movement": 1
+            "position": 2,
+            "movement": 0
           },
           {
             "country": "PT",
@@ -2101,6 +2101,12 @@ export const liveCharts: LiveRelease[] = [
             "movement": -1
           },
           {
+            "country": "PL",
+            "name": "Poland",
+            "position": 8,
+            "movement": 7
+          },
+          {
             "country": "SK",
             "name": "Slovakia",
             "position": 9,
@@ -2126,6 +2132,12 @@ export const liveCharts: LiveRelease[] = [
             "name": "Canada",
             "position": 11,
             "movement": 2
+          },
+          {
+            "country": "SE",
+            "name": "Sweden",
+            "position": 12,
+            "movement": -9
           },
           {
             "country": "DK",
@@ -2160,29 +2172,10 @@ export const liveCharts: LiveRelease[] = [
             "status": "new"
           },
           {
-            "country": "PL",
-            "name": "Poland",
-            "position": 22,
-            "movement": -7
-          },
-          {
             "country": "KH",
             "name": "Cambodia",
             "position": 24,
             "movement": -6
-          },
-          {
-            "country": "KZ",
-            "name": "Kazakhstan",
-            "position": 36,
-            "movement": null,
-            "status": "new"
-          },
-          {
-            "country": "SE",
-            "name": "Sweden",
-            "position": 36,
-            "movement": -33
           },
           {
             "country": "UZ",
@@ -2210,9 +2203,16 @@ export const liveCharts: LiveRelease[] = [
             "movement": 7
           },
           {
+            "country": "KZ",
+            "name": "Kazakhstan",
+            "position": 47,
+            "movement": null,
+            "status": "new"
+          },
+          {
             "country": "PH",
             "name": "Philippines",
-            "position": 53,
+            "position": 54,
             "movement": null,
             "status": "new"
           },
@@ -2226,8 +2226,8 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "TR",
             "name": "Turkey",
-            "position": 74,
-            "movement": 39
+            "position": 83,
+            "movement": 30
           },
           {
             "country": "AU",
@@ -2245,22 +2245,22 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "IN",
             "name": "India",
-            "position": 160,
+            "position": 165,
             "movement": null,
             "status": "new"
           },
           {
             "country": "HK",
             "name": "Hong Kong",
-            "position": 185,
+            "position": 193,
             "movement": null,
             "status": "new"
           },
           {
             "country": "EG",
             "name": "Egypt",
-            "position": 199,
-            "movement": -118
+            "position": 198,
+            "movement": -117
           }
         ]
       }
@@ -4358,7 +4358,7 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "BE",
             "name": "Belgium",
-            "position": 114,
+            "position": 118,
             "movement": null,
             "status": "new"
           }
@@ -4396,7 +4396,7 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "NG",
             "name": "Nigeria",
-            "position": 30,
+            "position": 34,
             "movement": null,
             "status": "new"
           }
@@ -4415,7 +4415,26 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "NG",
             "name": "Nigeria",
-            "position": 39,
+            "position": 43,
+            "movement": null,
+            "status": "new"
+          }
+        ]
+      }
+    ],
+    "kind": "song"
+  },
+  {
+    "title": "Sittin' On Top Of The World",
+    "platforms": [
+      {
+        "platform": "iTunes",
+        "numberOnes": 0,
+        "entries": [
+          {
+            "country": "NG",
+            "name": "Nigeria",
+            "position": 55,
             "movement": null,
             "status": "new"
           }
