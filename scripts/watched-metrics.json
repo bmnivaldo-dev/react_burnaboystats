@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-09-02",
-      "lastSeenValue": 973500422,
+      "lastSeenValue": 973872872,
       "lastSeenAt": "2026-09-02"
     },
     {
@@ -178,8 +178,8 @@
         }
       ],
       "lastChanged": "2026-08-31",
-      "lastSeenValue": 361818085,
-      "lastSeenAt": "2026-08-31",
+      "lastSeenValue": 362067909,
+      "lastSeenAt": "2026-09-02",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-08-23",
-      "lastSeenValue": 309155130,
-      "lastSeenAt": "2026-08-31",
+      "lastSeenValue": 309317077,
+      "lastSeenAt": "2026-09-02",
       "stalenessDays": 60
     },
     {
@@ -242,8 +242,8 @@
         }
       ],
       "lastChanged": "2026-08-31",
-      "lastSeenValue": 479604009,
-      "lastSeenAt": "2026-08-31",
+      "lastSeenValue": 480022527,
+      "lastSeenAt": "2026-09-02",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-08-25",
-      "lastSeenValue": 117768420,
-      "lastSeenAt": "2026-08-31",
+      "lastSeenValue": 117885213,
+      "lastSeenAt": "2026-09-02",
       "stalenessDays": 30
     },
     {
@@ -286,7 +286,7 @@
       "extractor": "kworbYouTubeTotal",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 3187566461,
+      "baseline": 3196624195,
       "note": "Cumulative views across every Burna Boy video — a milestone figure as it climbs.",
       "live": true,
       "siteTargets": [
@@ -304,9 +304,9 @@
         "min": 1000000000,
         "max": 50000000000
       },
-      "lastChanged": "2026-08-25",
-      "lastSeenValue": 3193709451,
-      "lastSeenAt": "2026-08-31",
+      "lastChanged": "2026-09-02",
+      "lastSeenValue": 3196624195,
+      "lastSeenAt": "2026-09-02",
       "stalenessDays": 21
     },
     {
