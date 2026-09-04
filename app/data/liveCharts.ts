@@ -2094,12 +2094,6 @@ export const liveCharts: LiveRelease[] = [
             "movement": -2
           },
           {
-            "country": "BE",
-            "name": "Belgium",
-            "position": 22,
-            "movement": -12
-          },
-          {
             "country": "BR",
             "name": "Brazil",
             "position": 22,
@@ -2112,6 +2106,12 @@ export const liveCharts: LiveRelease[] = [
             "position": 26,
             "movement": null,
             "status": "new"
+          },
+          {
+            "country": "BE",
+            "name": "Belgium",
+            "position": 27,
+            "movement": -17
           },
           {
             "country": "SK",
@@ -2156,12 +2156,6 @@ export const liveCharts: LiveRelease[] = [
             "movement": -40
           },
           {
-            "country": "LU",
-            "name": "Luxembourg",
-            "position": 50,
-            "movement": -48
-          },
-          {
             "country": "NZ",
             "name": "New Zealand",
             "position": 51,
@@ -2190,12 +2184,6 @@ export const liveCharts: LiveRelease[] = [
             "name": "Mexico",
             "position": 84,
             "movement": 63
-          },
-          {
-            "country": "AE",
-            "name": "United Arab Emirates",
-            "position": 97,
-            "movement": -91
           },
           {
             "country": "CL",
@@ -4537,6 +4525,25 @@ export const liveCharts: LiveRelease[] = [
     "kind": "song"
   },
   {
+    "title": "Higher",
+    "platforms": [
+      {
+        "platform": "iTunes",
+        "numberOnes": 0,
+        "entries": [
+          {
+            "country": "NG",
+            "name": "Nigeria",
+            "position": 138,
+            "movement": null,
+            "status": "new"
+          }
+        ]
+      }
+    ],
+    "kind": "song"
+  },
+  {
     "title": "Special Someone",
     "platforms": [
       {
@@ -4548,25 +4555,6 @@ export const liveCharts: LiveRelease[] = [
             "name": "Ghana",
             "position": 160,
             "movement": 9
-          }
-        ]
-      }
-    ],
-    "kind": "song"
-  },
-  {
-    "title": "Higher",
-    "platforms": [
-      {
-        "platform": "iTunes",
-        "numberOnes": 0,
-        "entries": [
-          {
-            "country": "NG",
-            "name": "Nigeria",
-            "position": 139,
-            "movement": null,
-            "status": "new"
           }
         ]
       }
