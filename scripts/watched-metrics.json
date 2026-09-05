@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 990652010,
+      "baseline": 991867300,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,8 +146,8 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-09-04",
-      "lastSeenValue": 991429339,
+      "lastChanged": "2026-09-05",
+      "lastSeenValue": 991867300,
       "lastSeenAt": "2026-09-05"
     },
     {
