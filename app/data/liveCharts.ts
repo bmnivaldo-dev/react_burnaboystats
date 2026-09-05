@@ -2050,12 +2050,6 @@ export const liveCharts: LiveRelease[] = [
             "status": "new"
           },
           {
-            "country": "DK",
-            "name": "Denmark",
-            "position": 4,
-            "movement": 45
-          },
-          {
             "country": "SK",
             "name": "Slovakia",
             "position": 4,
@@ -2081,6 +2075,12 @@ export const liveCharts: LiveRelease[] = [
             "movement": 3
           },
           {
+            "country": "DK",
+            "name": "Denmark",
+            "position": 6,
+            "movement": 43
+          },
+          {
             "country": "CH",
             "name": "Switzerland",
             "position": 6,
@@ -2101,7 +2101,7 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "CZ",
             "name": "Czech Republic",
-            "position": 8,
+            "position": 11,
             "movement": null,
             "status": "new"
           },
@@ -2110,12 +2110,6 @@ export const liveCharts: LiveRelease[] = [
             "name": "Germany",
             "position": 11,
             "movement": 5
-          },
-          {
-            "country": "IE",
-            "name": "Ireland",
-            "position": 11,
-            "movement": 3
           },
           {
             "country": "GR",
@@ -2142,6 +2136,12 @@ export const liveCharts: LiveRelease[] = [
             "position": 15,
             "movement": null,
             "status": "new"
+          },
+          {
+            "country": "IE",
+            "name": "Ireland",
+            "position": 16,
+            "movement": -2
           },
           {
             "country": "AU",
@@ -2175,13 +2175,6 @@ export const liveCharts: LiveRelease[] = [
             "status": "new"
           },
           {
-            "country": "LU",
-            "name": "Luxembourg",
-            "position": 45,
-            "movement": null,
-            "status": "new"
-          },
-          {
             "country": "US",
             "name": "United States",
             "position": 50,
@@ -2200,6 +2193,13 @@ export const liveCharts: LiveRelease[] = [
             "movement": -14
           },
           {
+            "country": "LU",
+            "name": "Luxembourg",
+            "position": 64,
+            "movement": null,
+            "status": "new"
+          },
+          {
             "country": "BR",
             "name": "Brazil",
             "position": 72,
@@ -2214,14 +2214,7 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "FI",
             "name": "Finland",
-            "position": 179,
-            "movement": null,
-            "status": "new"
-          },
-          {
-            "country": "MX",
-            "name": "Mexico",
-            "position": 200,
+            "position": 194,
             "movement": null,
             "status": "new"
           }
@@ -4328,6 +4321,37 @@ export const liveCharts: LiveRelease[] = [
     "kind": "song"
   },
   {
+    "title": "WE PRAY",
+    "platforms": [
+      {
+        "platform": "iTunes",
+        "numberOnes": 0,
+        "entries": [
+          {
+            "country": "CZ",
+            "name": "Czech Republic",
+            "position": 43,
+            "movement": null,
+            "status": "new"
+          }
+        ]
+      },
+      {
+        "platform": "Shazam",
+        "numberOnes": 0,
+        "entries": [
+          {
+            "country": "CZ",
+            "name": "Czech Republic",
+            "position": 135,
+            "movement": -14
+          }
+        ]
+      }
+    ],
+    "kind": "song"
+  },
+  {
     "title": "4 Kampé II",
     "platforms": [
       {
@@ -4602,24 +4626,6 @@ export const liveCharts: LiveRelease[] = [
             "position": 165,
             "movement": null,
             "status": "new"
-          }
-        ]
-      }
-    ],
-    "kind": "song"
-  },
-  {
-    "title": "WE PRAY",
-    "platforms": [
-      {
-        "platform": "Shazam",
-        "numberOnes": 0,
-        "entries": [
-          {
-            "country": "CZ",
-            "name": "Czech Republic",
-            "position": 135,
-            "movement": -14
           }
         ]
       }
