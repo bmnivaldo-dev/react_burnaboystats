@@ -2051,17 +2051,11 @@ export const liveCharts: LiveRelease[] = [
       },
       {
         "platform": "iTunes",
-        "numberOnes": 2,
+        "numberOnes": 1,
         "entries": [
           {
             "country": "GR",
             "name": "Greece",
-            "position": 1,
-            "movement": 3
-          },
-          {
-            "country": "LU",
-            "name": "Luxembourg",
             "position": 1,
             "movement": 3
           },
@@ -2079,6 +2073,12 @@ export const liveCharts: LiveRelease[] = [
             "movement": 3
           },
           {
+            "country": "LU",
+            "name": "Luxembourg",
+            "position": 2,
+            "movement": 2
+          },
+          {
             "country": "TJ",
             "name": "Tajikistan",
             "position": 3,
@@ -2092,10 +2092,10 @@ export const liveCharts: LiveRelease[] = [
             "movement": 0
           },
           {
-            "country": "PL",
-            "name": "Poland",
+            "country": "IE",
+            "name": "Ireland",
             "position": 4,
-            "movement": 13
+            "movement": 6
           },
           {
             "country": "AE",
@@ -2118,6 +2118,12 @@ export const liveCharts: LiveRelease[] = [
             "status": "new"
           },
           {
+            "country": "PL",
+            "name": "Poland",
+            "position": 6,
+            "movement": 11
+          },
+          {
             "country": "AT",
             "name": "Austria",
             "position": 7,
@@ -2128,12 +2134,6 @@ export const liveCharts: LiveRelease[] = [
             "name": "Canada",
             "position": 7,
             "movement": 4
-          },
-          {
-            "country": "IE",
-            "name": "Ireland",
-            "position": 7,
-            "movement": 3
           },
           {
             "country": "DE",
@@ -2257,15 +2257,9 @@ export const liveCharts: LiveRelease[] = [
             "movement": -20
           },
           {
-            "country": "SK",
-            "name": "Slovakia",
-            "position": 91,
-            "movement": -84
-          },
-          {
             "country": "HK",
             "name": "Hong Kong",
-            "position": 102,
+            "position": 111,
             "movement": null,
             "status": "new"
           }
@@ -4550,25 +4544,6 @@ export const liveCharts: LiveRelease[] = [
     "kind": "song"
   },
   {
-    "title": "Cloak & Dagger",
-    "platforms": [
-      {
-        "platform": "iTunes",
-        "numberOnes": 0,
-        "entries": [
-          {
-            "country": "NG",
-            "name": "Nigeria",
-            "position": 87,
-            "movement": null,
-            "status": "new"
-          }
-        ]
-      }
-    ],
-    "kind": "song"
-  },
-  {
     "title": "Talibans II",
     "platforms": [
       {
@@ -4580,6 +4555,25 @@ export const liveCharts: LiveRelease[] = [
             "name": "Anguilla",
             "position": 168,
             "movement": -89
+          }
+        ]
+      }
+    ],
+    "kind": "song"
+  },
+  {
+    "title": "Cloak & Dagger",
+    "platforms": [
+      {
+        "platform": "iTunes",
+        "numberOnes": 0,
+        "entries": [
+          {
+            "country": "NG",
+            "name": "Nigeria",
+            "position": 90,
+            "movement": null,
+            "status": "new"
           }
         ]
       }
@@ -4632,8 +4626,8 @@ export const liveCharts: LiveRelease[] = [
           {
             "country": "NG",
             "name": "Nigeria",
-            "position": 138,
-            "movement": -86
+            "position": 141,
+            "movement": -89
           }
         ]
       }
