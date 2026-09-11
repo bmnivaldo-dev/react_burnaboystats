@@ -68,7 +68,7 @@
       "field": "rank",
       "kind": "rank",
       "threshold": 1,
-      "baseline": 70,
+      "baseline": 71,
       "note": "Global rank by Spotify monthly listeners (lower is better). Auto-published hourly; displayed on /records/by-the-numbers.",
       "live": true,
       "sanity": {
@@ -86,9 +86,9 @@
           "describes": "global listeners rank"
         }
       ],
-      "lastChanged": "2026-09-09",
-      "lastSeenValue": 70,
-      "lastSeenAt": "2026-09-09"
+      "lastChanged": "2026-09-11",
+      "lastSeenValue": 71,
+      "lastSeenAt": "2026-09-11"
     },
     {
       "id": "spotify-total-streams",
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1038918761,
+      "baseline": 1039626907,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,9 +146,9 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-09-10",
-      "lastSeenValue": 1039201746,
-      "lastSeenAt": "2026-09-10"
+      "lastChanged": "2026-09-11",
+      "lastSeenValue": 1039626907,
+      "lastSeenAt": "2026-09-11"
     },
     {
       "id": "yt-views-last-last",
@@ -178,8 +178,8 @@
         }
       ],
       "lastChanged": "2026-09-08",
-      "lastSeenValue": 362650662,
-      "lastSeenAt": "2026-09-08",
+      "lastSeenValue": 362914089,
+      "lastSeenAt": "2026-09-11",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-09-08",
-      "lastSeenValue": 309666600,
-      "lastSeenAt": "2026-09-08",
+      "lastSeenValue": 309809501,
+      "lastSeenAt": "2026-09-11",
       "stalenessDays": 60
     },
     {
@@ -242,8 +242,8 @@
         }
       ],
       "lastChanged": "2026-09-08",
-      "lastSeenValue": 480901720,
-      "lastSeenAt": "2026-09-08",
+      "lastSeenValue": 481320877,
+      "lastSeenAt": "2026-09-11",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-08-25",
-      "lastSeenValue": 118135530,
-      "lastSeenAt": "2026-09-08",
+      "lastSeenValue": 118255209,
+      "lastSeenAt": "2026-09-11",
       "stalenessDays": 30
     },
     {
@@ -286,7 +286,7 @@
       "extractor": "kworbYouTubeTotal",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 3196624195,
+      "baseline": 3205307301,
       "note": "Cumulative views across every Burna Boy video — a milestone figure as it climbs.",
       "live": true,
       "siteTargets": [
@@ -304,9 +304,9 @@
         "min": 1000000000,
         "max": 50000000000
       },
-      "lastChanged": "2026-09-02",
-      "lastSeenValue": 3202518524,
-      "lastSeenAt": "2026-09-08",
+      "lastChanged": "2026-09-11",
+      "lastSeenValue": 3205307301,
+      "lastSeenAt": "2026-09-11",
       "stalenessDays": 21
     },
     {
