@@ -80,7 +80,7 @@ export const songs: Song[] = [
     slug: "ye",
     title: "Ye",
     year: 2018,
-    spotifyStreams: "335M",
+    spotifyStreams: "336M",
     album: "Outside",
     cover: "https://i.scdn.co/image/ab67616d0000b2732135956e3ca0a183db8ac395",
     spotify: "https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD",
