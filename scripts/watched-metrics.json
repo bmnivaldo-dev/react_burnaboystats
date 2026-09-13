@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1059543878,
+      "baseline": 1061168553,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-09-13",
-      "lastSeenValue": 1059543878,
+      "lastSeenValue": 1061168553,
       "lastSeenAt": "2026-09-13"
     },
     {
@@ -178,8 +178,8 @@
         }
       ],
       "lastChanged": "2026-09-08",
-      "lastSeenValue": 362914089,
-      "lastSeenAt": "2026-09-11",
+      "lastSeenValue": 363211423,
+      "lastSeenAt": "2026-09-13",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-09-08",
-      "lastSeenValue": 309809501,
-      "lastSeenAt": "2026-09-11",
+      "lastSeenValue": 309980951,
+      "lastSeenAt": "2026-09-13",
       "stalenessDays": 60
     },
     {
@@ -223,7 +223,7 @@
       "match": "On The Low [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 480901720,
+      "baseline": 481754587,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -241,9 +241,9 @@
           "describes": "displayed YouTube views on /music/on-the-low"
         }
       ],
-      "lastChanged": "2026-09-08",
-      "lastSeenValue": 481320877,
-      "lastSeenAt": "2026-09-11",
+      "lastChanged": "2026-09-13",
+      "lastSeenValue": 481754587,
+      "lastSeenAt": "2026-09-13",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-08-25",
-      "lastSeenValue": 118255209,
-      "lastSeenAt": "2026-09-11",
+      "lastSeenValue": 118385118,
+      "lastSeenAt": "2026-09-13",
       "stalenessDays": 30
     },
     {
@@ -305,8 +305,8 @@
         "max": 50000000000
       },
       "lastChanged": "2026-09-11",
-      "lastSeenValue": 3205307301,
-      "lastSeenAt": "2026-09-11",
+      "lastSeenValue": 3208295614,
+      "lastSeenAt": "2026-09-13",
       "stalenessDays": 21
     },
     {
