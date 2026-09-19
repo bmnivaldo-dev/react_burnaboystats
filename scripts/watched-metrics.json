@@ -98,7 +98,7 @@
       "extractor": "kworbTotalStreams",
       "kind": "drift",
       "threshold": 0.03,
-      "baseline": 11025006671,
+      "baseline": 11009552609,
       "note": "Auto-published daily. kworb's artist page undercounts featured credits, so a pipeline offset is added before the display string is written. RE-MEASURE THE OFFSET when the gap moves — it grows as featured songs accrue streams: +107,613,681 on 31 Jul 2026, +129,703,877 on 11 Aug 2026 (22,090,196 of drift in 11 days), each measured as tracked_total minus kworb's raw sum on the same day. Do NOT hand-edit the display instead; the offset is what keeps it tracking.",
       "live": true,
       "siteTargets": [
@@ -116,10 +116,10 @@
         "min": 5000000000,
         "max": 100000000000
       },
-      "lastChanged": "2026-09-17",
+      "lastChanged": "2026-09-19",
       "offset": 129703877,
-      "lastSeenValue": 11032429437,
-      "lastSeenAt": "2026-09-18"
+      "lastSeenValue": 11009552609,
+      "lastSeenAt": "2026-09-19"
     },
     {
       "id": "dai-dai-video-views",
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1101871147,
+      "baseline": 1103379371,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-09-19",
-      "lastSeenValue": 1101871147,
+      "lastSeenValue": 1103379371,
       "lastSeenAt": "2026-09-19"
     },
     {
