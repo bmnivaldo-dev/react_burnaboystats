@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1097296716,
+      "baseline": 1098412460,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,9 +146,9 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-09-18",
-      "lastSeenValue": 1097296716,
-      "lastSeenAt": "2026-09-18"
+      "lastChanged": "2026-09-19",
+      "lastSeenValue": 1098412460,
+      "lastSeenAt": "2026-09-19"
     },
     {
       "id": "yt-views-last-last",
@@ -159,7 +159,7 @@
       "match": "Last Last [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 362650662,
+      "baseline": 363754898,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -177,9 +177,9 @@
           "describes": "displayed YouTube views on /music/last-last"
         }
       ],
-      "lastChanged": "2026-09-08",
-      "lastSeenValue": 363465473,
-      "lastSeenAt": "2026-09-16",
+      "lastChanged": "2026-09-19",
+      "lastSeenValue": 363754898,
+      "lastSeenAt": "2026-09-19",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-09-08",
-      "lastSeenValue": 310127167,
-      "lastSeenAt": "2026-09-16",
+      "lastSeenValue": 310293770,
+      "lastSeenAt": "2026-09-19",
       "stalenessDays": 60
     },
     {
@@ -223,7 +223,7 @@
       "match": "On The Low [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 481754587,
+      "baseline": 482575245,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -241,9 +241,9 @@
           "describes": "displayed YouTube views on /music/on-the-low"
         }
       ],
-      "lastChanged": "2026-09-13",
-      "lastSeenValue": 482130415,
-      "lastSeenAt": "2026-09-16",
+      "lastChanged": "2026-09-19",
+      "lastSeenValue": 482575245,
+      "lastSeenAt": "2026-09-19",
       "stalenessDays": 45
     },
     {
@@ -255,7 +255,7 @@
       "match": "City Boys [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 117502939,
+      "baseline": 118621622,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -273,9 +273,9 @@
           "describes": "displayed YouTube views on /music/city-boys"
         }
       ],
-      "lastChanged": "2026-08-25",
-      "lastSeenValue": 118493717,
-      "lastSeenAt": "2026-09-16",
+      "lastChanged": "2026-09-19",
+      "lastSeenValue": 118621622,
+      "lastSeenAt": "2026-09-19",
       "stalenessDays": 30
     },
     {
@@ -305,8 +305,8 @@
         "max": 50000000000
       },
       "lastChanged": "2026-09-11",
-      "lastSeenValue": 3210919209,
-      "lastSeenAt": "2026-09-16",
+      "lastSeenValue": 3213984065,
+      "lastSeenAt": "2026-09-19",
       "stalenessDays": 21
     },
     {
