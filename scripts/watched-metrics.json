@@ -55,8 +55,8 @@
       "artistId": "3wcj11K77LjEY1PkEazffa",
       "field": "peakListeners",
       "lastChanged": "2026-08-10",
-      "lastSeenValue": 48685766,
-      "lastSeenAt": "2026-09-19"
+      "lastSeenValue": 60131126,
+      "lastSeenAt": "2026-09-20"
     },
     {
       "id": "spotify-listeners-rank",
@@ -68,7 +68,7 @@
       "field": "rank",
       "kind": "rank",
       "threshold": 1,
-      "baseline": 75,
+      "baseline": 78,
       "note": "Global rank by Spotify monthly listeners (lower is better). Auto-published hourly; displayed on /records/by-the-numbers.",
       "live": true,
       "sanity": {
@@ -86,9 +86,9 @@
           "describes": "global listeners rank"
         }
       ],
-      "lastChanged": "2026-09-17",
-      "lastSeenValue": 75,
-      "lastSeenAt": "2026-09-17"
+      "lastChanged": "2026-09-20",
+      "lastSeenValue": 78,
+      "lastSeenAt": "2026-09-20"
     },
     {
       "id": "spotify-total-streams",
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1105944556,
+      "baseline": 1106577405,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,9 +146,9 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-09-19",
-      "lastSeenValue": 1105944556,
-      "lastSeenAt": "2026-09-19"
+      "lastChanged": "2026-09-20",
+      "lastSeenValue": 1106577405,
+      "lastSeenAt": "2026-09-20"
     },
     {
       "id": "yt-views-last-last",
