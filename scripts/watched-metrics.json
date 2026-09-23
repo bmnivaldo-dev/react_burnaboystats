@@ -98,7 +98,7 @@
       "extractor": "kworbTotalStreams",
       "kind": "drift",
       "threshold": 0.03,
-      "baseline": 11070496464,
+      "baseline": 11075071684,
       "note": "Auto-published daily. kworb's artist page undercounts featured credits, so a pipeline offset is added before the display string is written. RE-MEASURE THE OFFSET when the gap moves — it grows as featured songs accrue streams: +107,613,681 on 31 Jul 2026, +129,703,877 on 11 Aug 2026 (22,090,196 of drift in 11 days), each measured as tracked_total minus kworb's raw sum on the same day. Do NOT hand-edit the display instead; the offset is what keeps it tracking.",
       "live": true,
       "siteTargets": [
@@ -118,7 +118,7 @@
       },
       "lastChanged": "2026-09-23",
       "offset": 129703877,
-      "lastSeenValue": 11070496464,
+      "lastSeenValue": 11075071684,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1128296800,
+      "baseline": 1129230551,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 1128296800,
+      "lastSeenValue": 1129230551,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -318,7 +318,7 @@
       "match": "Last Last",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 612415327,
+      "baseline": 612634442,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -337,7 +337,7 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 612415327,
+      "lastSeenValue": 612634442,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -368,7 +368,7 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 429648261,
+      "lastSeenValue": 429892031,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -399,7 +399,7 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 337096796,
+      "lastSeenValue": 337242894,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -430,7 +430,7 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 289716513,
+      "lastSeenValue": 289846287,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -461,7 +461,7 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 311593656,
+      "lastSeenValue": 312147561,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -492,7 +492,7 @@
         }
       ],
       "lastChanged": "2026-09-11",
-      "lastSeenValue": 215398045,
+      "lastSeenValue": 215470930,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -523,7 +523,7 @@
         }
       ],
       "lastChanged": "2026-09-15",
-      "lastSeenValue": 73254097,
+      "lastSeenValue": 73348942,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -554,7 +554,7 @@
         }
       ],
       "lastChanged": "2026-09-02",
-      "lastSeenValue": 10653003,
+      "lastSeenValue": 10660134,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -585,7 +585,7 @@
         }
       ],
       "lastChanged": "2026-08-03",
-      "lastSeenValue": 3831263,
+      "lastSeenValue": 3832802,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -616,7 +616,7 @@
         }
       ],
       "lastChanged": "2026-08-16",
-      "lastSeenValue": 3739071,
+      "lastSeenValue": 3741435,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -647,7 +647,7 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 988683,
+      "lastSeenValue": 988741,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -658,7 +658,7 @@
       "extractor": "kworbSongStreams",
       "match": "Dai Dai",
       "kind": "peak",
-      "baseline": 465459942,
+      "baseline": 467880111,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -677,7 +677,7 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 465459942,
+      "lastSeenValue": 467880111,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -708,7 +708,7 @@
         }
       ],
       "lastChanged": "2026-09-01",
-      "lastSeenValue": 68369065,
+      "lastSeenValue": 68411252,
       "lastSeenAt": "2026-09-23"
     },
     {
@@ -739,7 +739,7 @@
         }
       ],
       "lastChanged": "2026-09-01",
-      "lastSeenValue": 3742706,
+      "lastSeenValue": 3747399,
       "lastSeenAt": "2026-09-23"
     }
   ]
