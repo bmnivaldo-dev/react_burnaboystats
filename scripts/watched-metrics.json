@@ -98,7 +98,7 @@
       "extractor": "kworbTotalStreams",
       "kind": "drift",
       "threshold": 0.03,
-      "baseline": 11059020250,
+      "baseline": 11066659094,
       "note": "Auto-published daily. kworb's artist page undercounts featured credits, so a pipeline offset is added before the display string is written. RE-MEASURE THE OFFSET when the gap moves — it grows as featured songs accrue streams: +107,613,681 on 31 Jul 2026, +129,703,877 on 11 Aug 2026 (22,090,196 of drift in 11 days), each measured as tracked_total minus kworb's raw sum on the same day. Do NOT hand-edit the display instead; the offset is what keeps it tracking.",
       "live": true,
       "siteTargets": [
@@ -116,10 +116,10 @@
         "min": 5000000000,
         "max": 100000000000
       },
-      "lastChanged": "2026-09-25",
+      "lastChanged": "2026-09-26",
       "offset": 129703877,
-      "lastSeenValue": 11059020250,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 11066659094,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "dai-dai-video-views",
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1140249201,
+      "baseline": 1141160045,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,9 +146,9 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-09-25",
-      "lastSeenValue": 1140249201,
-      "lastSeenAt": "2026-09-25"
+      "lastChanged": "2026-09-26",
+      "lastSeenValue": 1141160045,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "yt-views-last-last",
@@ -337,8 +337,8 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 612847996,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 613061029,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-on-the-low",
@@ -368,8 +368,8 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 430131917,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 430366547,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-ye",
@@ -380,7 +380,7 @@
       "match": "Ye",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 337096796,
+      "baseline": 337552995,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -398,9 +398,9 @@
           "describes": "Spotify streams on /music/ye"
         }
       ],
-      "lastChanged": "2026-09-23",
-      "lastSeenValue": 337399179,
-      "lastSeenAt": "2026-09-25"
+      "lastChanged": "2026-09-26",
+      "lastSeenValue": 337552995,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-city-boys",
@@ -430,8 +430,8 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 289967352,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 290091538,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-wgft",
@@ -461,8 +461,8 @@
         }
       ],
       "lastChanged": "2026-09-25",
-      "lastSeenValue": 312675242,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 313200579,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-alone",
@@ -492,8 +492,8 @@
         }
       ],
       "lastChanged": "2026-09-25",
-      "lastSeenValue": 215556609,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 215641617,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-23",
@@ -504,7 +504,7 @@
       "match": "23",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 72561837,
+      "baseline": 73519928,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -522,9 +522,9 @@
           "describes": "Spotify streams on /music/23"
         }
       ],
-      "lastChanged": "2026-09-15",
-      "lastSeenValue": 73434926,
-      "lastSeenAt": "2026-09-25"
+      "lastChanged": "2026-09-26",
+      "lastSeenValue": 73519928,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-like-to-party",
@@ -554,8 +554,8 @@
         }
       ],
       "lastChanged": "2026-09-02",
-      "lastSeenValue": 10667422,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 10675013,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-rizzla",
@@ -585,8 +585,8 @@
         }
       ],
       "lastChanged": "2026-08-03",
-      "lastSeenValue": 3834281,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 3835855,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-boshe-nlo",
@@ -616,8 +616,8 @@
         }
       ],
       "lastChanged": "2026-08-16",
-      "lastSeenValue": 3744181,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 3747035,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-darko",
@@ -647,8 +647,8 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 988792,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 988831,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-dai-dai",
@@ -658,7 +658,7 @@
       "extractor": "kworbSongStreams",
       "match": "Dai Dai",
       "kind": "peak",
-      "baseline": 470320428,
+      "baseline": 472716145,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -676,9 +676,9 @@
           "describes": "Spotify streams for Dai Dai"
         }
       ],
-      "lastChanged": "2026-09-25",
-      "lastSeenValue": 470320428,
-      "lastSeenAt": "2026-09-25"
+      "lastChanged": "2026-09-26",
+      "lastSeenValue": 472716145,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-tatata",
@@ -708,8 +708,8 @@
         }
       ],
       "lastChanged": "2026-09-01",
-      "lastSeenValue": 68454512,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 68497716,
+      "lastSeenAt": "2026-09-26"
     },
     {
       "id": "spotify-streams-smoke",
@@ -739,8 +739,8 @@
         }
       ],
       "lastChanged": "2026-09-25",
-      "lastSeenValue": 3751381,
-      "lastSeenAt": "2026-09-25"
+      "lastSeenValue": 3755485,
+      "lastSeenAt": "2026-09-26"
     }
   ]
 }
