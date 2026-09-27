@@ -68,7 +68,7 @@
       "field": "rank",
       "kind": "rank",
       "threshold": 1,
-      "baseline": 84,
+      "baseline": 85,
       "note": "Global rank by Spotify monthly listeners (lower is better). Auto-published hourly; displayed on /records/by-the-numbers.",
       "live": true,
       "sanity": {
@@ -86,9 +86,9 @@
           "describes": "global listeners rank"
         }
       ],
-      "lastChanged": "2026-09-25",
-      "lastSeenValue": 84,
-      "lastSeenAt": "2026-09-25"
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 85,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-total-streams",
@@ -147,8 +147,8 @@
         }
       ],
       "lastChanged": "2026-09-26",
-      "lastSeenValue": 1147810983,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 1148471292,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "yt-views-last-last",
@@ -159,7 +159,7 @@
       "match": "Last Last [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 363754898,
+      "baseline": 364634963,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -177,9 +177,9 @@
           "describes": "displayed YouTube views on /music/last-last"
         }
       ],
-      "lastChanged": "2026-09-19",
-      "lastSeenValue": 364312473,
-      "lastSeenAt": "2026-09-24",
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 364634963,
+      "lastSeenAt": "2026-09-27",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-09-24",
-      "lastSeenValue": 310604068,
-      "lastSeenAt": "2026-09-24",
+      "lastSeenValue": 310783482,
+      "lastSeenAt": "2026-09-27",
       "stalenessDays": 60
     },
     {
@@ -223,7 +223,7 @@
       "match": "On The Low [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 482575245,
+      "baseline": 483857643,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -241,9 +241,9 @@
           "describes": "displayed YouTube views on /music/on-the-low"
         }
       ],
-      "lastChanged": "2026-09-19",
-      "lastSeenValue": 483387848,
-      "lastSeenAt": "2026-09-24",
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 483857643,
+      "lastSeenAt": "2026-09-27",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-09-19",
-      "lastSeenValue": 118871854,
-      "lastSeenAt": "2026-09-24",
+      "lastSeenValue": 119015940,
+      "lastSeenAt": "2026-09-27",
       "stalenessDays": 30
     },
     {
@@ -305,8 +305,8 @@
         "max": 50000000000
       },
       "lastChanged": "2026-09-21",
-      "lastSeenValue": 3219537437,
-      "lastSeenAt": "2026-09-24",
+      "lastSeenValue": 3222808742,
+      "lastSeenAt": "2026-09-27",
       "stalenessDays": 21
     },
     {
