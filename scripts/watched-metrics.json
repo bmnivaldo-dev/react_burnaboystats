@@ -118,8 +118,8 @@
       },
       "lastChanged": "2026-09-26",
       "offset": 129703877,
-      "lastSeenValue": 11066659094,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 11074376002,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "dai-dai-video-views",
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1147810983,
+      "baseline": 1149712812,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,8 +146,8 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-09-26",
-      "lastSeenValue": 1148471292,
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 1149712812,
       "lastSeenAt": "2026-09-27"
     },
     {
@@ -337,8 +337,8 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 613061029,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 613284018,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-on-the-low",
@@ -349,7 +349,7 @@
       "match": "On the Low",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 429648261,
+      "baseline": 430617002,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -367,9 +367,9 @@
           "describes": "Spotify streams on /music/on-the-low"
         }
       ],
-      "lastChanged": "2026-09-23",
-      "lastSeenValue": 430366547,
-      "lastSeenAt": "2026-09-26"
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 430617002,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-ye",
@@ -399,8 +399,8 @@
         }
       ],
       "lastChanged": "2026-09-26",
-      "lastSeenValue": 337552995,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 337709505,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-city-boys",
@@ -430,8 +430,8 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 290091538,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 290219616,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-wgft",
@@ -442,7 +442,7 @@
       "match": "wgft (feat. Burna Boy)",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 312675242,
+      "baseline": 313733832,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -460,9 +460,9 @@
           "describes": "Spotify streams on /music/wgft"
         }
       ],
-      "lastChanged": "2026-09-25",
-      "lastSeenValue": 313200579,
-      "lastSeenAt": "2026-09-26"
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 313733832,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-alone",
@@ -492,8 +492,8 @@
         }
       ],
       "lastChanged": "2026-09-25",
-      "lastSeenValue": 215641617,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 215749126,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-23",
@@ -523,8 +523,8 @@
         }
       ],
       "lastChanged": "2026-09-26",
-      "lastSeenValue": 73519928,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 73603801,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-like-to-party",
@@ -554,8 +554,8 @@
         }
       ],
       "lastChanged": "2026-09-02",
-      "lastSeenValue": 10675013,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 10682444,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-rizzla",
@@ -585,8 +585,8 @@
         }
       ],
       "lastChanged": "2026-08-03",
-      "lastSeenValue": 3835855,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 3837367,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-boshe-nlo",
@@ -597,7 +597,7 @@
       "match": "Boshe Nlo",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 3651206,
+      "baseline": 3750290,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -615,9 +615,9 @@
           "describes": "Spotify streams on /music/boshe-nlo"
         }
       ],
-      "lastChanged": "2026-08-16",
-      "lastSeenValue": 3747035,
-      "lastSeenAt": "2026-09-26"
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 3750290,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-darko",
@@ -647,8 +647,8 @@
         }
       ],
       "lastChanged": "2026-09-23",
-      "lastSeenValue": 988831,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 988882,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-dai-dai",
@@ -658,7 +658,7 @@
       "extractor": "kworbSongStreams",
       "match": "Dai Dai",
       "kind": "peak",
-      "baseline": 472716145,
+      "baseline": 475359475,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -676,9 +676,9 @@
           "describes": "Spotify streams for Dai Dai"
         }
       ],
-      "lastChanged": "2026-09-26",
-      "lastSeenValue": 472716145,
-      "lastSeenAt": "2026-09-26"
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 475359475,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-tatata",
@@ -689,7 +689,7 @@
       "match": "TaTaTa (feat. Travis Scott)",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 67513892,
+      "baseline": 68541180,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -707,9 +707,9 @@
           "describes": "Spotify streams for TaTaTa"
         }
       ],
-      "lastChanged": "2026-09-01",
-      "lastSeenValue": 68497716,
-      "lastSeenAt": "2026-09-26"
+      "lastChanged": "2026-09-27",
+      "lastSeenValue": 68541180,
+      "lastSeenAt": "2026-09-27"
     },
     {
       "id": "spotify-streams-smoke",
@@ -739,8 +739,8 @@
         }
       ],
       "lastChanged": "2026-09-25",
-      "lastSeenValue": 3755485,
-      "lastSeenAt": "2026-09-26"
+      "lastSeenValue": 3759444,
+      "lastSeenAt": "2026-09-27"
     }
   ]
 }
