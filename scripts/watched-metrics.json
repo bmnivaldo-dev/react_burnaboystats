@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1162712655,
+      "baseline": 1164429158,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-09-29",
-      "lastSeenValue": 1162712655,
+      "lastSeenValue": 1164429158,
       "lastSeenAt": "2026-09-29"
     },
     {
@@ -178,8 +178,8 @@
         }
       ],
       "lastChanged": "2026-09-27",
-      "lastSeenValue": 364634963,
-      "lastSeenAt": "2026-09-27",
+      "lastSeenValue": 364877037,
+      "lastSeenAt": "2026-09-29",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-09-24",
-      "lastSeenValue": 310783482,
-      "lastSeenAt": "2026-09-27",
+      "lastSeenValue": 310918091,
+      "lastSeenAt": "2026-09-29",
       "stalenessDays": 60
     },
     {
@@ -242,8 +242,8 @@
         }
       ],
       "lastChanged": "2026-09-27",
-      "lastSeenValue": 483857643,
-      "lastSeenAt": "2026-09-27",
+      "lastSeenValue": 484225985,
+      "lastSeenAt": "2026-09-29",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-09-19",
-      "lastSeenValue": 119015940,
-      "lastSeenAt": "2026-09-27",
+      "lastSeenValue": 119122461,
+      "lastSeenAt": "2026-09-29",
       "stalenessDays": 30
     },
     {
@@ -286,7 +286,7 @@
       "extractor": "kworbYouTubeTotal",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 3216764794,
+      "baseline": 3225347454,
       "note": "Cumulative views across every Burna Boy video — a milestone figure as it climbs.",
       "live": true,
       "siteTargets": [
@@ -304,9 +304,9 @@
         "min": 1000000000,
         "max": 50000000000
       },
-      "lastChanged": "2026-09-21",
-      "lastSeenValue": 3222808742,
-      "lastSeenAt": "2026-09-27",
+      "lastChanged": "2026-09-29",
+      "lastSeenValue": 3225347454,
+      "lastSeenAt": "2026-09-29",
       "stalenessDays": 21
     },
     {
