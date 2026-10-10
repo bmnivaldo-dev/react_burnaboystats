@@ -22,4 +22,4 @@
 export const spotifyTotalStreams = "11.18B";
 
 // Every Burna Boy video on YouTube, across his channel and others'.
-export const youtubeTotalViews = "3.23B";
+export const youtubeTotalViews = "3.24B";

@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1221922597,
+      "baseline": 1223563095,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-10-10",
-      "lastSeenValue": 1221922597,
+      "lastSeenValue": 1223563095,
       "lastSeenAt": "2026-10-10"
     },
     {
@@ -178,8 +178,8 @@
         }
       ],
       "lastChanged": "2026-10-07",
-      "lastSeenValue": 365742169,
-      "lastSeenAt": "2026-10-07",
+      "lastSeenValue": 366042543,
+      "lastSeenAt": "2026-10-10",
       "stalenessDays": 45
     },
     {
@@ -191,7 +191,7 @@
       "match": "Ye [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 310604068,
+      "baseline": 311568658,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -209,9 +209,9 @@
           "describes": "displayed YouTube views on /music/ye"
         }
       ],
-      "lastChanged": "2026-09-24",
-      "lastSeenValue": 311400648,
-      "lastSeenAt": "2026-10-07",
+      "lastChanged": "2026-10-10",
+      "lastSeenValue": 311568658,
+      "lastSeenAt": "2026-10-10",
       "stalenessDays": 60
     },
     {
@@ -223,7 +223,7 @@
       "match": "On The Low [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 484614074,
+      "baseline": 485899349,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -241,9 +241,9 @@
           "describes": "displayed YouTube views on /music/on-the-low"
         }
       ],
-      "lastChanged": "2026-10-02",
-      "lastSeenValue": 485479716,
-      "lastSeenAt": "2026-10-07",
+      "lastChanged": "2026-10-10",
+      "lastSeenValue": 485899349,
+      "lastSeenAt": "2026-10-10",
       "stalenessDays": 45
     },
     {
@@ -255,7 +255,7 @@
       "match": "City Boys [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 118621622,
+      "baseline": 119597596,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -273,9 +273,9 @@
           "describes": "displayed YouTube views on /music/city-boys"
         }
       ],
-      "lastChanged": "2026-09-19",
-      "lastSeenValue": 119474746,
-      "lastSeenAt": "2026-10-07",
+      "lastChanged": "2026-10-10",
+      "lastSeenValue": 119597596,
+      "lastSeenAt": "2026-10-10",
       "stalenessDays": 30
     },
     {
@@ -286,7 +286,7 @@
       "extractor": "kworbYouTubeTotal",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 3225347454,
+      "baseline": 3236739416,
       "note": "Cumulative views across every Burna Boy video — a milestone figure as it climbs.",
       "live": true,
       "siteTargets": [
@@ -304,9 +304,9 @@
         "min": 1000000000,
         "max": 50000000000
       },
-      "lastChanged": "2026-09-29",
-      "lastSeenValue": 3233809201,
-      "lastSeenAt": "2026-10-07",
+      "lastChanged": "2026-10-10",
+      "lastSeenValue": 3236739416,
+      "lastSeenAt": "2026-10-10",
       "stalenessDays": 21
     },
     {
