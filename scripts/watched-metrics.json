@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1288840652,
+      "baseline": 1290177574,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-10-23",
-      "lastSeenValue": 1288840652,
+      "lastSeenValue": 1290177574,
       "lastSeenAt": "2026-10-23"
     },
     {
@@ -178,8 +178,8 @@
         }
       ],
       "lastChanged": "2026-10-15",
-      "lastSeenValue": 367170270,
-      "lastSeenAt": "2026-10-21",
+      "lastSeenValue": 367442477,
+      "lastSeenAt": "2026-10-23",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-10-10",
-      "lastSeenValue": 312203633,
-      "lastSeenAt": "2026-10-21",
+      "lastSeenValue": 312356891,
+      "lastSeenAt": "2026-10-23",
       "stalenessDays": 60
     },
     {
@@ -242,8 +242,8 @@
         }
       ],
       "lastChanged": "2026-10-21",
-      "lastSeenValue": 487584985,
-      "lastSeenAt": "2026-10-21",
+      "lastSeenValue": 487976714,
+      "lastSeenAt": "2026-10-23",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-10-10",
-      "lastSeenValue": 120042364,
-      "lastSeenAt": "2026-10-21",
+      "lastSeenValue": 120152357,
+      "lastSeenAt": "2026-10-23",
       "stalenessDays": 30
     },
     {
@@ -305,8 +305,8 @@
         "max": 50000000000
       },
       "lastChanged": "2026-10-18",
-      "lastSeenValue": 3248041100,
-      "lastSeenAt": "2026-10-21",
+      "lastSeenValue": 3250805370,
+      "lastSeenAt": "2026-10-23",
       "stalenessDays": 21
     },
     {
