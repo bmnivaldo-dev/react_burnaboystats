@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1304019533,
+      "baseline": 1304979935,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-10-26",
-      "lastSeenValue": 1304019533,
+      "lastSeenValue": 1304979935,
       "lastSeenAt": "2026-10-26"
     },
     {
@@ -159,7 +159,7 @@
       "match": "Last Last [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 366586106,
+      "baseline": 367742253,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -177,9 +177,9 @@
           "describes": "displayed YouTube views on /music/last-last"
         }
       ],
-      "lastChanged": "2026-10-15",
-      "lastSeenValue": 367442477,
-      "lastSeenAt": "2026-10-23",
+      "lastChanged": "2026-10-26",
+      "lastSeenValue": 367742253,
+      "lastSeenAt": "2026-10-26",
       "stalenessDays": 45
     },
     {
@@ -191,7 +191,7 @@
       "match": "Ye [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 311568658,
+      "baseline": 312533842,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -209,9 +209,9 @@
           "describes": "displayed YouTube views on /music/ye"
         }
       ],
-      "lastChanged": "2026-10-10",
-      "lastSeenValue": 312356891,
-      "lastSeenAt": "2026-10-23",
+      "lastChanged": "2026-10-26",
+      "lastSeenValue": 312533842,
+      "lastSeenAt": "2026-10-26",
       "stalenessDays": 60
     },
     {
@@ -242,8 +242,8 @@
         }
       ],
       "lastChanged": "2026-10-21",
-      "lastSeenValue": 487976714,
-      "lastSeenAt": "2026-10-23",
+      "lastSeenValue": 488392766,
+      "lastSeenAt": "2026-10-26",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-10-10",
-      "lastSeenValue": 120152357,
-      "lastSeenAt": "2026-10-23",
+      "lastSeenValue": 120270979,
+      "lastSeenAt": "2026-10-26",
       "stalenessDays": 30
     },
     {
@@ -305,8 +305,8 @@
         "max": 50000000000
       },
       "lastChanged": "2026-10-18",
-      "lastSeenValue": 3250805370,
-      "lastSeenAt": "2026-10-23",
+      "lastSeenValue": 3253655068,
+      "lastSeenAt": "2026-10-26",
       "stalenessDays": 21
     },
     {
