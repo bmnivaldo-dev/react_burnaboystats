@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1329997800,
+      "baseline": 1331594491,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-10-31",
-      "lastSeenValue": 1329997800,
+      "lastSeenValue": 1331594491,
       "lastSeenAt": "2026-10-31"
     },
     {
@@ -178,8 +178,8 @@
         }
       ],
       "lastChanged": "2026-10-26",
-      "lastSeenValue": 368024267,
-      "lastSeenAt": "2026-10-29",
+      "lastSeenValue": 368366481,
+      "lastSeenAt": "2026-10-31",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-10-26",
-      "lastSeenValue": 312696842,
-      "lastSeenAt": "2026-10-29",
+      "lastSeenValue": 312894191,
+      "lastSeenAt": "2026-10-31",
       "stalenessDays": 60
     },
     {
@@ -242,8 +242,8 @@
         }
       ],
       "lastChanged": "2026-10-29",
-      "lastSeenValue": 488802344,
-      "lastSeenAt": "2026-10-29",
+      "lastSeenValue": 489277286,
+      "lastSeenAt": "2026-10-31",
       "stalenessDays": 45
     },
     {
@@ -255,7 +255,7 @@
       "match": "City Boys [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 119597596,
+      "baseline": 120505250,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -273,9 +273,9 @@
           "describes": "displayed YouTube views on /music/city-boys"
         }
       ],
-      "lastChanged": "2026-10-10",
-      "lastSeenValue": 120380999,
-      "lastSeenAt": "2026-10-29",
+      "lastChanged": "2026-10-31",
+      "lastSeenValue": 120505250,
+      "lastSeenAt": "2026-10-31",
       "stalenessDays": 30
     },
     {
@@ -305,8 +305,8 @@
         "max": 50000000000
       },
       "lastChanged": "2026-10-29",
-      "lastSeenValue": 3256449713,
-      "lastSeenAt": "2026-10-29",
+      "lastSeenValue": 3259526309,
+      "lastSeenAt": "2026-10-31",
       "stalenessDays": 21
     },
     {
