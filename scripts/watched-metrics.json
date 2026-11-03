@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1341698036,
+      "baseline": 1343422626,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,9 +146,9 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-11-02",
-      "lastSeenValue": 1341698036,
-      "lastSeenAt": "2026-11-02"
+      "lastChanged": "2026-11-03",
+      "lastSeenValue": 1343422626,
+      "lastSeenAt": "2026-11-03"
     },
     {
       "id": "yt-views-last-last",
@@ -159,7 +159,7 @@
       "match": "Last Last [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 367742253,
+      "baseline": 368683819,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -177,9 +177,9 @@
           "describes": "displayed YouTube views on /music/last-last"
         }
       ],
-      "lastChanged": "2026-10-26",
-      "lastSeenValue": 368366481,
-      "lastSeenAt": "2026-10-31",
+      "lastChanged": "2026-11-03",
+      "lastSeenValue": 368683819,
+      "lastSeenAt": "2026-11-03",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-10-26",
-      "lastSeenValue": 312894191,
-      "lastSeenAt": "2026-10-31",
+      "lastSeenValue": 313069266,
+      "lastSeenAt": "2026-11-03",
       "stalenessDays": 60
     },
     {
@@ -223,7 +223,7 @@
       "match": "On The Low [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 488802344,
+      "baseline": 489695483,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -241,9 +241,9 @@
           "describes": "displayed YouTube views on /music/on-the-low"
         }
       ],
-      "lastChanged": "2026-10-29",
-      "lastSeenValue": 489277286,
-      "lastSeenAt": "2026-10-31",
+      "lastChanged": "2026-11-03",
+      "lastSeenValue": 489695483,
+      "lastSeenAt": "2026-11-03",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-10-31",
-      "lastSeenValue": 120505250,
-      "lastSeenAt": "2026-10-31",
+      "lastSeenValue": 120620584,
+      "lastSeenAt": "2026-11-03",
       "stalenessDays": 30
     },
     {
@@ -305,8 +305,8 @@
         "max": 50000000000
       },
       "lastChanged": "2026-10-29",
-      "lastSeenValue": 3259526309,
-      "lastSeenAt": "2026-10-31",
+      "lastSeenValue": 3262316678,
+      "lastSeenAt": "2026-11-03",
       "stalenessDays": 21
     },
     {
