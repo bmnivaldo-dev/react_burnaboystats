@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1347821269,
+      "baseline": 1349169065,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-11-04",
-      "lastSeenValue": 1347821269,
+      "lastSeenValue": 1349169065,
       "lastSeenAt": "2026-11-04"
     },
     {
