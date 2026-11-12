@@ -68,7 +68,7 @@
       "field": "rank",
       "kind": "rank",
       "threshold": 1,
-      "baseline": 115,
+      "baseline": 114,
       "note": "Global rank by Spotify monthly listeners (lower is better). Auto-published hourly; displayed on /records/by-the-numbers.",
       "live": true,
       "sanity": {
@@ -86,9 +86,9 @@
           "describes": "global listeners rank"
         }
       ],
-      "lastChanged": "2026-11-10",
-      "lastSeenValue": 115,
-      "lastSeenAt": "2026-11-10"
+      "lastChanged": "2026-11-12",
+      "lastSeenValue": 114,
+      "lastSeenAt": "2026-11-12"
     },
     {
       "id": "spotify-total-streams",
@@ -147,8 +147,8 @@
         }
       ],
       "lastChanged": "2026-11-11",
-      "lastSeenValue": 1379607355,
-      "lastSeenAt": "2026-11-11"
+      "lastSeenValue": 1380423237,
+      "lastSeenAt": "2026-11-12"
     },
     {
       "id": "yt-views-last-last",
