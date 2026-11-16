@@ -159,7 +159,7 @@
       "match": "Last Last [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 369757623,
+      "baseline": 370532536,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -177,9 +177,9 @@
           "describes": "displayed YouTube views on /music/last-last"
         }
       ],
-      "lastChanged": "2026-11-11",
-      "lastSeenValue": 370127709,
-      "lastSeenAt": "2026-11-14",
+      "lastChanged": "2026-11-16",
+      "lastSeenValue": 370532536,
+      "lastSeenAt": "2026-11-16",
       "stalenessDays": 45
     },
     {
@@ -210,8 +210,8 @@
         }
       ],
       "lastChanged": "2026-11-11",
-      "lastSeenValue": 313847044,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenValue": 314053969,
+      "lastSeenAt": "2026-11-16",
       "stalenessDays": 60
     },
     {
@@ -242,8 +242,8 @@
         }
       ],
       "lastChanged": "2026-11-14",
-      "lastSeenValue": 491688344,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenValue": 492248471,
+      "lastSeenAt": "2026-11-16",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-10-31",
-      "lastSeenValue": 121131508,
-      "lastSeenAt": "2026-11-14",
+      "lastSeenValue": 121272333,
+      "lastSeenAt": "2026-11-16",
       "stalenessDays": 30
     },
     {
@@ -286,7 +286,7 @@
       "extractor": "kworbYouTubeTotal",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 3265444221,
+      "baseline": 3278071705,
       "note": "Cumulative views across every Burna Boy video — a milestone figure as it climbs.",
       "live": true,
       "siteTargets": [
@@ -304,9 +304,9 @@
         "min": 1000000000,
         "max": 50000000000
       },
-      "lastChanged": "2026-11-06",
-      "lastSeenValue": 3274729353,
-      "lastSeenAt": "2026-11-14",
+      "lastChanged": "2026-11-16",
+      "lastSeenValue": 3278071705,
+      "lastSeenAt": "2026-11-16",
       "stalenessDays": 21
     },
     {
