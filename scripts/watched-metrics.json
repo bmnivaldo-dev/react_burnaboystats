@@ -118,8 +118,8 @@
       },
       "lastChanged": "2026-11-20",
       "offset": 129703877,
-      "lastSeenValue": 11385098998,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 11391171033,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "dai-dai-video-views",
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1421931474,
+      "baseline": 1423271375,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -147,7 +147,7 @@
         }
       ],
       "lastChanged": "2026-11-21",
-      "lastSeenValue": 1421931474,
+      "lastSeenValue": 1423271375,
       "lastSeenAt": "2026-11-21"
     },
     {
@@ -337,8 +337,8 @@
         }
       ],
       "lastChanged": "2026-11-19",
-      "lastSeenValue": 624844785,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 625057684,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-on-the-low",
@@ -368,8 +368,8 @@
         }
       ],
       "lastChanged": "2026-11-17",
-      "lastSeenValue": 443217157,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 443435253,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-ye",
@@ -399,8 +399,8 @@
         }
       ],
       "lastChanged": "2026-11-20",
-      "lastSeenValue": 345566702,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 345725108,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-city-boys",
@@ -430,8 +430,8 @@
         }
       ],
       "lastChanged": "2026-11-15",
-      "lastSeenValue": 297214960,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 297342167,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-wgft",
@@ -461,8 +461,8 @@
         }
       ],
       "lastChanged": "2026-11-20",
-      "lastSeenValue": 340576929,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 341021656,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-alone",
@@ -473,7 +473,7 @@
       "match": "Alone",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 220520215,
+      "baseline": 221592877,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -491,9 +491,9 @@
           "describes": "Spotify streams on /music/alone"
         }
       ],
-      "lastChanged": "2026-11-11",
-      "lastSeenValue": 221481784,
-      "lastSeenAt": "2026-11-20"
+      "lastChanged": "2026-11-21",
+      "lastSeenValue": 221592877,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-23",
@@ -523,8 +523,8 @@
         }
       ],
       "lastChanged": "2026-11-13",
-      "lastSeenValue": 78225832,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 78323584,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-like-to-party",
@@ -554,8 +554,8 @@
         }
       ],
       "lastChanged": "2026-09-02",
-      "lastSeenValue": 11034647,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 11041567,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-rizzla",
@@ -585,8 +585,8 @@
         }
       ],
       "lastChanged": "2026-10-07",
-      "lastSeenValue": 3909477,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 3910783,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-boshe-nlo",
@@ -616,8 +616,8 @@
         }
       ],
       "lastChanged": "2026-11-13",
-      "lastSeenValue": 3865949,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 3867899,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-darko",
@@ -628,7 +628,7 @@
       "match": "Darko",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 990533,
+      "baseline": 991542,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -646,9 +646,9 @@
           "describes": "Spotify streams on /music/darko"
         }
       ],
-      "lastChanged": "2026-10-31",
-      "lastSeenValue": 991480,
-      "lastSeenAt": "2026-11-20"
+      "lastChanged": "2026-11-21",
+      "lastSeenValue": 991542,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-dai-dai",
@@ -658,7 +658,7 @@
       "extractor": "kworbSongStreams",
       "match": "Dai Dai",
       "kind": "peak",
-      "baseline": 584869623,
+      "baseline": 586505209,
       "live": true,
       "sanity": {
         "maxJump": 0.25,
@@ -676,9 +676,9 @@
           "describes": "Spotify streams for Dai Dai"
         }
       ],
-      "lastChanged": "2026-11-20",
-      "lastSeenValue": 584869623,
-      "lastSeenAt": "2026-11-20"
+      "lastChanged": "2026-11-21",
+      "lastSeenValue": 586505209,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-tatata",
@@ -708,8 +708,8 @@
         }
       ],
       "lastChanged": "2026-11-19",
-      "lastSeenValue": 70563276,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 70602692,
+      "lastSeenAt": "2026-11-21"
     },
     {
       "id": "spotify-streams-smoke",
@@ -739,8 +739,8 @@
         }
       ],
       "lastChanged": "2026-11-19",
-      "lastSeenValue": 3956504,
-      "lastSeenAt": "2026-11-20"
+      "lastSeenValue": 3960060,
+      "lastSeenAt": "2026-11-21"
     }
   ]
 }
