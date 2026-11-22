@@ -115,7 +115,7 @@ export const songs: Song[] = [
     slug: "on-the-low",
     title: "On the Low",
     year: 2019,
-    spotifyStreams: "443M",
+    spotifyStreams: "444M",
     album: "African Giant",
     cover: "https://i.scdn.co/image/ab67616d0000b273a9c13c1a5538f87146ac8ca5",
     spotify: "https://open.spotify.com/track/1zIk8RJEKGvoH4FioFnGyJ",
@@ -181,7 +181,7 @@ export const songs: Song[] = [
     album: "I Told Them…",
     cover: "https://i.scdn.co/image/ab67616d0000b273c361f3720bafc0da36f14d96",
     spotify: "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k",
-    ytViews: "121M",
+    ytViews: "122M",
     tagline: "The triumphant I Told Them… anthem",
     blurb:
       "A celebratory highlight from I Told Them… (2023), “City Boys” became one of the album's biggest songs — a swaggering Afrobeats anthem that reached No. 2 in Nigeria, charted in eight countries and went 4× Platinum at home.",
