@@ -68,7 +68,7 @@
       "field": "rank",
       "kind": "rank",
       "threshold": 1,
-      "baseline": 112,
+      "baseline": 115,
       "note": "Global rank by Spotify monthly listeners (lower is better). Auto-published hourly; displayed on /records/by-the-numbers.",
       "live": true,
       "sanity": {
@@ -86,9 +86,9 @@
           "describes": "global listeners rank"
         }
       ],
-      "lastChanged": "2026-11-24",
-      "lastSeenValue": 112,
-      "lastSeenAt": "2026-11-24"
+      "lastChanged": "2026-11-25",
+      "lastSeenValue": 115,
+      "lastSeenAt": "2026-11-25"
     },
     {
       "id": "spotify-total-streams",
@@ -129,7 +129,7 @@
       "extractor": "youtubeViews",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 1440762519,
+      "baseline": 1442025469,
       "live": true,
       "sanity": {
         "maxJump": 0.1,
@@ -146,9 +146,9 @@
           "describes": "displayed view count (whole millions) on /dai-dai"
         }
       ],
-      "lastChanged": "2026-11-24",
-      "lastSeenValue": 1440762519,
-      "lastSeenAt": "2026-11-24"
+      "lastChanged": "2026-11-25",
+      "lastSeenValue": 1442025469,
+      "lastSeenAt": "2026-11-25"
     },
     {
       "id": "yt-views-last-last",
@@ -159,7 +159,7 @@
       "match": "Last Last [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 370532536,
+      "baseline": 371700875,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -177,9 +177,9 @@
           "describes": "displayed YouTube views on /music/last-last"
         }
       ],
-      "lastChanged": "2026-11-16",
-      "lastSeenValue": 371333261,
-      "lastSeenAt": "2026-11-22",
+      "lastChanged": "2026-11-25",
+      "lastSeenValue": 371700875,
+      "lastSeenAt": "2026-11-25",
       "stalenessDays": 45
     },
     {
@@ -191,7 +191,7 @@
       "match": "Ye [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 313643822,
+      "baseline": 314658252,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -209,9 +209,9 @@
           "describes": "displayed YouTube views on /music/ye"
         }
       ],
-      "lastChanged": "2026-11-11",
-      "lastSeenValue": 314473622,
-      "lastSeenAt": "2026-11-22",
+      "lastChanged": "2026-11-25",
+      "lastSeenValue": 314658252,
+      "lastSeenAt": "2026-11-25",
       "stalenessDays": 60
     },
     {
@@ -223,7 +223,7 @@
       "match": "On The Low [Official Music Video]",
       "kind": "drift",
       "threshold": 0.005,
-      "baseline": 492705230,
+      "baseline": 493733118,
       "live": true,
       "sanity": {
         "maxJump": 0.2,
@@ -241,9 +241,9 @@
           "describes": "displayed YouTube views on /music/on-the-low"
         }
       ],
-      "lastChanged": "2026-11-19",
-      "lastSeenValue": 493267647,
-      "lastSeenAt": "2026-11-22",
+      "lastChanged": "2026-11-25",
+      "lastSeenValue": 493733118,
+      "lastSeenAt": "2026-11-25",
       "stalenessDays": 45
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "lastChanged": "2026-11-22",
-      "lastSeenValue": 121580059,
-      "lastSeenAt": "2026-11-22",
+      "lastSeenValue": 121730484,
+      "lastSeenAt": "2026-11-25",
       "stalenessDays": 30
     },
     {
@@ -286,7 +286,7 @@
       "extractor": "kworbYouTubeTotal",
       "kind": "drift",
       "threshold": 0.001,
-      "baseline": 3278071705,
+      "baseline": 3287949606,
       "note": "Cumulative views across every Burna Boy video — a milestone figure as it climbs.",
       "live": true,
       "siteTargets": [
@@ -304,9 +304,9 @@
         "min": 1000000000,
         "max": 50000000000
       },
-      "lastChanged": "2026-11-16",
-      "lastSeenValue": 3284820476,
-      "lastSeenAt": "2026-11-22",
+      "lastChanged": "2026-11-25",
+      "lastSeenValue": 3287949606,
+      "lastSeenAt": "2026-11-25",
       "stalenessDays": 21
     },
     {
