@@ -1959,6 +1959,18 @@ export const runHistory: RunPoint[] = [
     "release": "Dai Dai",
     "platform": "Spotify",
     "position": 79
+  },
+  {
+    "date": "2026-11-28",
+    "release": "Dai Dai",
+    "platform": "Shazam",
+    "position": 145
+  },
+  {
+    "date": "2026-11-28",
+    "release": "Dai Dai",
+    "platform": "Spotify",
+    "position": 79
   }
 ];
 
